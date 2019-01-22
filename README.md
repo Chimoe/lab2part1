@@ -24,4 +24,4 @@ https://github.com/Chimoe/courseproject
 
 https://github.com/Chimoe/ProjectIdeas2019
 
-ProjectIdeas: PR #
+ProjectIdeas: PR #6
